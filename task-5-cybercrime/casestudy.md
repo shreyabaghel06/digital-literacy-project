@@ -1,4 +1,4 @@
-**Case Study: UPI / Online Payment Fraud**
+# **CASE STUDY: UPI / ONLINE PAYMENT FRAUD**
 
 Online payment fraud using UPI is a kind of crime where bad people trick users into sending them money or giving away banking information through online payment platforms. This is happening a lot in India because more and more people are using the internet to make payments.
 
