@@ -1,4 +1,4 @@
-# **SOCIAL MEDIA DO’S AND DON’TS**
+# *SOCIAL MEDIA DO’S AND DON’TS* 
 
 **Do’s:**
 
