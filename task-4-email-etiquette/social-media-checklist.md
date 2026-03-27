@@ -1,6 +1,6 @@
-Social Media Do’s and Don’ts
+# **SOCIAL MEDIA DO’S AND DON’TS**
 
-Do’s:
+**Do’s:**
 
 1. Use passwords to keep your accounts safe and secure
 
@@ -13,7 +13,7 @@ Do’s:
 5. Always check if information is true before you share it
 
 
-Don’ts:
+**Don’ts:**
 
 1. You should never share your things or sensitive information with anyone on the internet.
 
